@@ -48,7 +48,7 @@
 ## 📫 Contact Me
 <p align="center">
   ✉️ Email: <a href="mailto:zarinanjumanto@gmail.com">zarinanjumanto@gmail.com</a>  
-  🌐 Portfolio/CV: <a href="https://anto-uk-cv-appealing.tiiny.site">anto-uk-cv-appealing.tiiny.site</a>
+  🌐 Portfolio/CV: <a href="https://anto-cv-uk.tiiny.site/">anto-cv-uk.tiiny.site</a>
 </p>
 
 ---
