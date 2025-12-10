@@ -1,10 +1,4 @@
-github readme code
-Sheikh Ahmad<sheikh.ahm4d@gmail.com>
-​
-Anto Z (FCES)​
-CAUTION: This email originated from outside of USW. Only click on links or open attachments if you recognise the sender and are expecting them. If you have concerns about this email then please forward it to phishing@southwales.ac.uk and do NOT reply to it or forward on to anyone else.
 
-RHYBUDD: Mae'r e-bost hwn yn tarddu o du allan i PDC. Peidiwch â chlicio ar ddolenni nac agor atodiadau oni bai eich bod chi'n adnabod yr anfonwr ac yn eu disgwyl. Os oes gennych bryderon am yr e-bost hwn, anfonwch ef ymlaen at phishing@southwales.ac.uk a PHEIDIWCH ag ymateb iddo nac ei anfon ymlaen at unrhyw un arall.
 <div align="center">
 
   <img
