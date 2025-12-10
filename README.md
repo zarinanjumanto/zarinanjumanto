@@ -1,63 +1,126 @@
-<h1 align="center">Hi, I'm Zarin Anjum Anto 👋</h1>
-<h3 align="center">Aspiring Computer Science Engineer | Frontend & Full-Stack Developer</h3>
+github readme code
+Sheikh Ahmad<sheikh.ahm4d@gmail.com>
+​
+Anto Z (FCES)​
+CAUTION: This email originated from outside of USW. Only click on links or open attachments if you recognise the sender and are expecting them. If you have concerns about this email then please forward it to phishing@southwales.ac.uk and do NOT reply to it or forward on to anyone else.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zarinanjumanto&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+RHYBUDD: Mae'r e-bost hwn yn tarddu o du allan i PDC. Peidiwch â chlicio ar ddolenni nac agor atodiadau oni bai eich bod chi'n adnabod yr anfonwr ac yn eu disgwyl. Os oes gennych bryderon am yr e-bost hwn, anfonwch ef ymlaen at phishing@southwales.ac.uk a PHEIDIWCH ag ymateb iddo nac ei anfon ymlaen at unrhyw un arall.
+<div align="center">
+
+  <img
+    src="https://img.shields.io/badge/Hi%2C%20I'm%20Zarin%20Anjum%20Anto-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=000000"
+    style="width: 90%; max-width: 700px;"
+  />
+
+  <h2 style="font-size: 30px; font-weight: bold; margin-top: 20px;">
+    Aspiring Computer Science Engineer • Frontend & Full-Stack Developer
+  </h2>
+
+  <img
+    src="https://komarev.com/ghpvc/?username=zarinanjumanto&label=Profile%20Views&color=1e90ff&style=for-the-badge"
+    style="margin-top: 10px;"
+  />
+
+</div>
 
 ---
 
-## 👨‍🎓 About Me
+<h2 align="center" style="background: linear-gradient(90deg, #00d4ff, #6a5acd); -webkit-background-clip: text; color: transparent; font-size: 28px;">
+  👩‍💻 About Me
+</h2>
+
 - 🎓 BSc Computer Science Student at **University of South Wales**  
 - 💻 Passionate about **Frontend Development**, **Full-Stack Development**, and **UI/UX Design**  
-- 🌱 Constantly learning modern web technologies and building practical projects  
-- ⚡ Fun Fact: I perform my best work when contributing to a team or helping others  
+- 🔍 Currently exploring **C++**, **Information Management**, and **Ethical Hacking**  
+- 🌱 Constantly learning modern web technologies and building practical, user-focused projects  
+- ⚡ Fun Fact: I perform my best work when collaborating and helping others grow  
 
 ---
 
-## 💬 Ask Me About
-- Frontend Development: **HTML, CSS, JavaScript, React**  
-- Backend & Databases: **Node.js, MongoDB, MySQL**  
-- Web Design & UI/UX Principles  
-- Coding Best Practices & Problem Solving  
+<h2 align="center" style="background: linear-gradient(90deg, #00d4ff, #6a5acd); -webkit-background-clip: text; color: transparent; font-size: 28px;">
+  💬 Ask Me About
+</h2>
+
+- **Frontend Development:** HTML, CSS, JavaScript, React  
+- **Backend & Databases:** Node.js, MongoDB, MySQL  
+- **Programming Languages:** C++, Python, Java  
+- **Web Design & UI/UX Principles**  
+- **Information Management & Basic Cybersecurity Concepts**  
 
 ---
 
-## 🛠️ Skills & Tools
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+<h2 align="center" style="background: linear-gradient(90deg, #00d4ff, #6a5acd); -webkit-background-clip: text; color: transparent; font-size: 28px;">
+  🛠️ Skills & Tools
+</h2>
+
+<p align="center" style="margin-top: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" height="60" style="margin: 10px;"/>
 </p>
 
 ---
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zarinanjumanto&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zarinanjumanto&theme=tokyonight"/>
+
+<h2 align="center" style="background: linear-gradient(90deg, #00d4ff, #6a5acd); -webkit-background-clip: text; color: transparent; font-size: 28px;">
+  🌟 What I’m Currently Working On
+</h2>
+
+- Improving my **C++ proficiency**  
+- Learning **Information Management** concepts  
+- Exploring the fundamentals of **Ethical Hacking & Cybersecurity**  
+- Building real-world software projects to sharpen problem-solving skills  
+
+---
+
+<h2 align="center" style="background: linear-gradient(90deg, #00d4ff, #6a5acd); -webkit-background-clip: text; color: transparent; font-size: 28px;">
+  🎨 Hobbies & Interests
+</h2>
+
+Outside of coding, I enjoy activities that boost creativity and analytical skills:  
+- 🍰 **Baking**  
+- 🧩 **Sudoku & Math Puzzles**  
+- ✈️ **Traveling**  
+- 🎨 **Painting & Crafting**  
+- 🚴 **Cycling**  
+
+---
+
+<h2 align="center" style="background: linear-gradient(90deg, #00d4ff, #6a5acd); -webkit-background-clip: text; color: transparent; font-size: 28px;">
+  📊 GitHub Stats
+</h2>
+
+<p align="center" style="margin-top: 15px;">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zarinanjumanto&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=zarinanjumanto&theme=tokyonight" />
 </p>
 
 ---
 
-## 📫 Contact Me
-<p align="center">
+<h2 align="center" style="background: linear-gradient(90deg, #00d4ff, #6a5acd); -webkit-background-clip: text; color: transparent; font-size: 28px;">
+  📫 Contact Me
+</h2>
+
+<p align="center" style="margin-top: 10px;">
   ✉️ Email: <a href="mailto:zarinanjumanto@gmail.com">zarinanjumanto@gmail.com</a>  
-  🌐 Portfolio/CV: <a href="https://anto-cv-uk.tiiny.site/">anto-cv-uk.tiiny.site</a>
+  🌐 Portfolio/CV:
+  <a href="./anto_cv.pdf" target="_blank">View my CV (PDF)</a>
 </p>
 
 ---
 
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/zarin-anjum-anto-8b5944398/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="35"/></a>
-  <a href="https://www.facebook.com/share/1crrmkuwol/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="35" width="35"/></a>
-  <a href="https://www.instagram.com/ornilanto/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="35"/></a>
-</p>
+<h2 align="center" style="background: linear-gradient(90deg, #00d4ff, #6a5acd); -webkit-background-clip: text; color: transparent; font-size: 28px;">
+  🔗 Connect with Me
+</h2>
 
----
+<p align="center" style="margin-top: 10px;">
+  <a href="https://www.linkedin.com/in/zarin-anjum-anto-8b5944398/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" style="margin: 8px;"/></a>
+  <a href="https://www.facebook.com/share/1crrmkuwol/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" width="40" style="margin: 8px;"/></a>
+  <a href="https://www.instagram.com/ornilanto/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" style="margin: 8px;"/></a>
+</p>
